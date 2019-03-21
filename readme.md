@@ -11,10 +11,8 @@ navigate to ngrok generated url appending uri `/inbound`
 
 Go to twilio numbers and update settings for the phone number twilio gave to accept this webhook from the ngrok generated url. https://www.twilio.com/console/phone-numbers Messaging section. See photos in /photos.
 
-<center><img src="photos/kay_twilioMessaging.png" alt="twilio" width="500"/></center>
-<br>
+![twilio](/photos/twilioMessaging.png)
 
 Text the number, and receive the xml defined message.
 
-<center><img src="assets/img/sentMessage.png" alt="message" width="500"/></center>
-<br>
+![message](/photos/sentMessage.png)
